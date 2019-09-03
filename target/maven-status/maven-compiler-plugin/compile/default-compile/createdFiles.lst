@@ -1,3 +1,2 @@
-com/example/howtodoinjava/springhystrixstudentservice/controller/StudentServiceController.class
-com/example/howtodoinjava/springhystrixstudentservice/model/Student.class
-com/example/howtodoinjava/springhystrixstudentservice/SpringHystrixStudentServiceApplication.class
+com/example/howtodoinjava/springhystrixalternativeservice/SpringHystrixAlternativeApplication.class
+com/example/howtodoinjava/springhystrixalternativeservice/controller/AlternativeServiceController.class
